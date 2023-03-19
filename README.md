@@ -11,8 +11,7 @@ I've been learning code for three years. I started with HTML and CSS but I have 
 * 🧠  I'm learning Software engineering with Alx Africa
 * 🤝  I'm open to collaborating on Interesting projects
 
-<a href="https://www.github.com/sosmogendi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sosmogendi?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a><a href="https://www.twitter.com/@itsSosMogendi" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/@itsSosMogendi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/@itsSosMogendi?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
 /></a>
 
