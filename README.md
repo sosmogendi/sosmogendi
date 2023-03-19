@@ -4,7 +4,7 @@ Hi 👋 My name is Sospeter Mogendi Nyabuto
 Software Engineering trainee
 ----------------------------
 
-I've been learning code for three years. I started with HTML and CSS but I have really developed passion for backend development using Python, JavaScript and SQL.
+I've been learning code for three years. I started with HTML and CSS but I have really developed passion for backend development.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [sosmogendi@gmail.com](mailto:sosmogendi@gmail.com)
